@@ -1,0 +1,4 @@
+1. normal_user: Where were you when the incident occurred?
+2. sign_user:I went to the cinema yesterday.
+3. normal_user: Do you suspect anyone?
+4. sign_user:My friend is also waiting for updates.
